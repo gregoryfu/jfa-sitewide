@@ -5,10 +5,10 @@
  * Version: 0.1
  * Author: Greg Fuller
  * License: GPLv2 or later
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html ..
  */
 
-/*  Copyright 2016 Greg Fuller */
+/*  Copyright 2016 Greg Fuller    */
 
 
 /* enquque styles */
