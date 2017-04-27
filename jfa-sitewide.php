@@ -12,7 +12,7 @@
 
 
 /* enquque styles */
-add_action('wp_enqueue_scripts', 'jfa_sitwide_styles');
+add_action('wp_enqueue_scripts', 'jfa_sitewide_styles');
 function jfa_sitewide_styles()
 {
     wp_enqueue_style('jfa-sitewide-style', plugins_url('css/jfa-sitewide.css', __FILE__), array('dashicons'), '1.3', 'all');
